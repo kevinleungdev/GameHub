@@ -23,9 +23,9 @@ const HomePage = () => {
         </GridItem>
       </Show>
       <GridItem area="main">
-        <Box paddingLeft={2}>
+        <Box>
           <GameHeading />
-          <Flex marginBottom={1}>
+          <Flex marginTop={3} marginBottom={5}>
             <Box marginRight={5}>
               <PlatformSelector />
             </Box>
