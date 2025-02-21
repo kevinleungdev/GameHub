@@ -5,7 +5,7 @@ This web application called "GameHub" that allows users to browse and search for
 ![screen01](doc/portal.png)
 ![screen02](doc/details.png)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/kevinleungdev/GameHub.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/kevinleungdev/GameHub.git)
 
 ## Features
 
@@ -44,6 +44,8 @@ Note that the workspace is your personal workspace, you can make changes, save f
 time and you can even create git commits and pull requests from it. For more information see GitPod documentation.
 
 In the GitPod editor you can make changes to the app, and after saving the app will be recompiled and redeployed automatically.
+
+![editor](doc/gitpod_editor.png)
 
 ## Running locally
 
